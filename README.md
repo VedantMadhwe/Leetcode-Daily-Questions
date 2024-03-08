@@ -1,0 +1,1 @@
+This repository is a collection of solutions to daily LeetCode coding problems, along with explanations. The goal is to provide clear and understandable explanations for each problem, and to help new coders learn and improve their skills.
